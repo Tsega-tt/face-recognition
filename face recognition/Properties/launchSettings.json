@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "face recognition": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\admin\\source\\repos\\face recognition\\face recognition"
+    }
+  }
+}
